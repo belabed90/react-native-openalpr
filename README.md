@@ -142,6 +142,10 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     fontSize: 20,
   },
+  preview:{
+     width:500,
+     height:500
+  }
 });
 
 export default class PlateRecognizer extends React.Component {
